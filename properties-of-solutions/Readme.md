@@ -1,10 +1,7 @@
-# Images for Teaching Introductory Chemistry
+# Properties of Solutions
 
-## Properties of Solutions
-
-### Beaker Exothermic
+## Beaker Exothermic
 ![beaker-exothermic](beaker-exothermic/beaker-exothermic.png)
 
-### Beaker Endothermic
-
+## Beaker Endothermic
 ![beaker-endothermic](beaker-endothermic/beaker-endothermic.png)
