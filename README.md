@@ -1,10 +1,5 @@
-# Images for Teaching Introductory Chemistry
+# Images for Introductory Chemistry
 
-## Properties of Solutions
+Images are available in the following modules.
 
-### Beaker Exothermic
-![beaker-exothermic](properties-of-solutions/beaker-exothermic/beaker-exothermic.png)
-
-### Beaker Endothermic
-
-![beaker-endothermic](properties-of-solutions/beaker-endothermic/beaker-endothermic.png)
+* [Properties of Solutions](properties-of-solutions/Readme.md)
