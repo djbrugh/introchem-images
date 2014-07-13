@@ -3,8 +3,8 @@
 ## Properties of Solutions
 
 ### Beaker Exothermic
-![beaker-exothermic](beaker-exothermic/beaker-exothermic.png)
+![beaker-exothermic](properties-of-solutions/beaker-exothermic/beaker-exothermic.png)
 
 ### Beaker Endothermic
 
-![beaker-endothermic](beaker-endothermic/beaker-endothermic.png)
+![beaker-endothermic](properties-of-solutions/beaker-endothermic/beaker-endothermic.png)
