@@ -1,10 +1,16 @@
 # Images for Introductory Chemistry
 
-Images for Introductory Chemistry on GitHub is a collection of LaTeX/TikZ code to produce images for use in teaching introductory chemistry. Images are available in the following topic modules.
+## Introduction
+
+Images for Introductory Chemistry is a collection of figures for use in teaching introductory chemistry. The repository contains photographs, LaTeX/TikZ code, and Adobe Illustrator files. A png preview is provided for every image. 
+
+## Organization
+
+Images a categorized by topic modules typically taught in an introductory chemistry course (often called general chemistry). Images are currently available for the following topics. 
 
 * [Properties of Solutions](properties-of-solutions/Readme.md)
 
-# License
+## License
 
 [![Creative Commons License][image-1]][1]  
 Except where otherwise noted, "Images for Introductory Chemistry" by Dale J. Brugh is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][1]. 
