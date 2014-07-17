@@ -13,12 +13,12 @@
 ## Exothermic Enthalpy Diagram
 [More Detail](exothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](exothermic-enthalpy-diagram/sol-energetics-exothermic.tex)
 
-![sol-energetics-exothermic](enthalpy-diagram-exothermic/sol-energetics-exothermic.png)
+![sol-energetics-exothermic](exothermic-enthalpy-diagram/sol-energetics-exothermic.png)
 
 ## Endothermic Enthalpy Diagram
 [More Detail](endothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](endothermic-enthalpy-diagram/sol-energetics-endothermic.tex)
 
-![sol-energetics-endothermic](enthalpy-diagram-endothermic/sol-energetics-endothermic.png)
+![sol-energetics-endothermic](endothermic-enthalpy-diagram/sol-energetics-endothermic.png)
 
 # License
 
