@@ -10,6 +10,16 @@
 
 ![beaker-endothermic](beaker-endothermic/beaker-endothermic.png)
 
+## Exothermic Enthalpy Diagram
+[More Detail](exothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](exothermic-enthalpy-diagram/sol-energetics-exothermic.tex)
+
+![sol-energetics-exothermic](enthalpy-diagram-exothermic/sol-energetics-exothermic.png)
+
+## Endothermic Enthalpy Diagram
+[More Detail](endothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](endothermic-enthalpy-diagram/sol-energetics-endothermic.tex)
+
+![sol-energetics-endothermic](enthalpy-diagram-endothermic/sol-energetics-endothermic.png)
+
 # License
 
 [![Creative Commons License][image-1]][1]  
