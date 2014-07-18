@@ -23,7 +23,7 @@
 ## Solid Separated in Beaker
 [More Detail](solid-separated-in-beaker/Readme.md) | [Adobe Illustrator Source](solid-separated-in-beaker/solid-separated-in-beaker.ai)
 
-![solution-in-beaker](solution-in-beaker/solution-in-beaker.png)
+![solution-in-beaker](solid-separated-in-beaker/solid-separated-in-beaker.png)
 
 ## Solution in Beaker
 [More Detail](solution-in-beaker/Readme.md) | [Adobe Illustrator Source](solution-in-beaker/solution-in-beaker.ai)
