@@ -1,10 +1,10 @@
-# Solution in a Beaker
+# Solid Separated in Beaker
 
-[Adobe Illustrator Source](solution-in-beaker.ai)
+[Adobe Illustrator Source](solid-separated-in-beaker.ai)
 
-Solute (gray circles) and solvent particles (blue circles) uniformaly distributed in a beaker to represent a solution. 
+Solid solute particles separated in a beaker. 
 
-![Image](solution-in-beaker.png)
+![Image](solid-separated-in-beaker.png)
 
 # License
 
