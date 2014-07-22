@@ -1,0 +1,7 @@
+beaker-exothermic:
+ title: Beaker Exothermic
+ filename: beaker-exothermic
+ source: LaTeX Source
+ extension: tex
+ caption: Energy flow for an exothermic process taking place in a system inside a container with diathermal walls.
+ 

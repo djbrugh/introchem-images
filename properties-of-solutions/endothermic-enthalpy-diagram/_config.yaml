@@ -1,0 +1,7 @@
+sol-energetics-endothermic:
+ title: Enthalpy Diagram for Endothermic Solution Formation
+ filename: sol-energetics-endothermic
+ source: LaTeX Source
+ extension: tex
+ caption: Enthalpy diagram showing the enthalpy changes associated with endothermic solution formation. 
+ 
