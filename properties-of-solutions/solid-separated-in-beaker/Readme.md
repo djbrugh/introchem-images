@@ -2,9 +2,9 @@
 
 [Adobe Illustrator Source](solid-separated-in-beaker.ai)
 
-Solid solute particles separated in a beaker. 
+Solid solute particles separated in a beaker.
 
-![Image](solid-separated-in-beaker.png)
+![solid-separated-in-beaker](solid-separated-in-beaker.png)
 
 # License
 

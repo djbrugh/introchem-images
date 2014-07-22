@@ -2,9 +2,9 @@
 
 [Adobe Illustrator Source](solution-in-beaker.ai)
 
-Solute (gray circles) and solvent particles (blue circles) uniformaly distributed in a beaker to represent a solution. 
+Solute (gray circles) and solvent particles (blue circles) uniformaly distributed in a beaker to represent a solution.
 
-![Image](solution-in-beaker.png)
+![solution-in-beaker](solution-in-beaker.png)
 
 # License
 

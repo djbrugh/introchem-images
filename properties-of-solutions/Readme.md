@@ -1,31 +1,31 @@
 # Properties of Solutions
 
-## Beaker Exothermic
-[More Detail](beaker-exothermic/Readme.md) | [LaTeX Source](beaker-exothermic/beaker-exothermic.tex)
-
-![beaker-exothermic](beaker-exothermic/beaker-exothermic.png)
-
 ## Beaker Endothermic
 [More Detail](beaker-endothermic/Readme.md) | [LaTeX Source](beaker-endothermic/beaker-endothermic.tex)
 
 ![beaker-endothermic](beaker-endothermic/beaker-endothermic.png)
 
-## Exothermic Enthalpy Diagram
-[More Detail](exothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](exothermic-enthalpy-diagram/sol-energetics-exothermic.tex)
+## Beaker Exothermic
+[More Detail](beaker-exothermic/Readme.md) | [LaTeX Source](beaker-exothermic/beaker-exothermic.tex)
 
-![sol-energetics-exothermic](exothermic-enthalpy-diagram/sol-energetics-exothermic.png)
+![beaker-exothermic](beaker-exothermic/beaker-exothermic.png)
 
-## Endothermic Enthalpy Diagram
-[More Detail](endothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](endothermic-enthalpy-diagram/sol-energetics-endothermic.tex)
+## Enthalpy Diagram for Endothermic Solution Formation
+[More Detail](sol-energetics-endothermic/Readme.md) | [LaTeX Source](sol-energetics-endothermic/sol-energetics-endothermic.tex)
 
-![sol-energetics-endothermic](endothermic-enthalpy-diagram/sol-energetics-endothermic.png)
+![sol-energetics-endothermic](sol-energetics-endothermic/sol-energetics-endothermic.png)
+
+## Enthalpy Diagram for Exothermic Solution Formation
+[More Detail](sol-energetics-exothermic/Readme.md) | [LaTeX Source](sol-energetics-exothermic/sol-energetics-exothermic.tex)
+
+![sol-energetics-exothermic](sol-energetics-exothermic/sol-energetics-exothermic.png)
 
 ## Solid Separated in Beaker
 [More Detail](solid-separated-in-beaker/Readme.md) | [Adobe Illustrator Source](solid-separated-in-beaker/solid-separated-in-beaker.ai)
 
-![solution-in-beaker](solid-separated-in-beaker/solid-separated-in-beaker.png)
+![solid-separated-in-beaker](solid-separated-in-beaker/solid-separated-in-beaker.png)
 
-## Solution in Beaker
+## Solution in a Beaker
 [More Detail](solution-in-beaker/Readme.md) | [Adobe Illustrator Source](solution-in-beaker/solution-in-beaker.ai)
 
 ![solution-in-beaker](solution-in-beaker/solution-in-beaker.png)
