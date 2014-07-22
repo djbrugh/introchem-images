@@ -11,14 +11,14 @@
 ![beaker-exothermic](beaker-exothermic/beaker-exothermic.png)
 
 ## Enthalpy Diagram for Endothermic Solution Formation
-[More Detail](sol-energetics-endothermic/Readme.md) | [LaTeX Source](sol-energetics-endothermic/sol-energetics-endothermic.tex)
+[More Detail](endothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](endothermic-enthalpy-diagram/endothermic-enthalpy-diagram.tex)
 
-![sol-energetics-endothermic](sol-energetics-endothermic/sol-energetics-endothermic.png)
+![endothermic-enthalpy-diagram](endothermic-enthalpy-diagram/endothermic-enthalpy-diagram.png)
 
 ## Enthalpy Diagram for Exothermic Solution Formation
-[More Detail](sol-energetics-exothermic/Readme.md) | [LaTeX Source](sol-energetics-exothermic/sol-energetics-exothermic.tex)
+[More Detail](exothermic-enthalpy-diagram/Readme.md) | [LaTeX Source](exothermic-enthalpy-diagram/exothermic-enthalpy-diagram.tex)
 
-![sol-energetics-exothermic](sol-energetics-exothermic/sol-energetics-exothermic.png)
+![exothermic-enthalpy-diagram](exothermic-enthalpy-diagram/exothermic-enthalpy-diagram.png)
 
 ## Solid Separated in Beaker
 [More Detail](solid-separated-in-beaker/Readme.md) | [Adobe Illustrator Source](solid-separated-in-beaker/solid-separated-in-beaker.ai)

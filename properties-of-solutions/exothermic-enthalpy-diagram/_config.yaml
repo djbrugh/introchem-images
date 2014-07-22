@@ -1,6 +1,6 @@
-sol-energetics-exothermic:
+exothermic-enthalpy-diagram:
  title: Enthalpy Diagram for Exothermic Solution Formation
- filename: sol-energetics-exothermic
+ filename: exothermic-enthalpy-diagram
  source: LaTeX Source
  extension: tex
  caption: Enthalpy diagram showing the enthalpy changes associated with exothermic solution formation. 

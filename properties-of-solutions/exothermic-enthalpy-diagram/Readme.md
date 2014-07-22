@@ -1,10 +1,10 @@
 # Enthalpy Diagram for Exothermic Solution Formation
 
-[LaTeX Source](sol-energetics-exothermic.tex)
+[LaTeX Source](exothermic-enthalpy-diagram.tex)
 
 Enthalpy diagram showing the enthalpy changes associated with exothermic solution formation.
 
-![sol-energetics-exothermic](sol-energetics-exothermic.png)
+![exothermic-enthalpy-diagram](exothermic-enthalpy-diagram.png)
 
 # License
 
